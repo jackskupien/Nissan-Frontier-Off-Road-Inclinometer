@@ -1,6 +1,14 @@
 # Nissan-Frontier-Off-Road-Inclinometer
 A simple Raspberry Pi Pico program that uses micropython to display the pitch and roll of my Nissan Frontier. Pieces and parts were pulled from other folks' libraries.
 
+## Hardware
+* Raspberry Pi Pico
+* ILI9341 touchscreen
+* MPU9250 Gyroscope
+
+## What is in these folders?
+* Backup is everything that is on the Pi pico when it runs (just a copy of its storage)
+
 ## Power Supply
 behind the USB outlet there is a mini USB that plugs into the port, I split that with a splitter and fed it through the back of the small cubby next to the traction control switch.
 
