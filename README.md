@@ -9,6 +9,9 @@ A simple Raspberry Pi Pico program that uses micropython to display the pitch an
 ## What is in these folders?
 * Backup is everything that is on the Pi pico when it runs (just a copy of its storage)
 
+## Screen and front end
+By far the biggest pain of this project was getting the screen to cooperate. I made most of these pictures from scratch in GIMP. Any picture displayed on the screen I used had to be in a very specific format and size (320x240, I think). I used a helper python program called img2rgb565.py which someone else on here made and I made some modifications to.
+
 ## Power Supply
 behind the USB outlet there is a mini USB that plugs into the port, I split that with a splitter and fed it through the back of the small cubby next to the traction control switch.
 
