@@ -1,4 +1,3 @@
-![Wiring Diagram](https://github.com/jackskupien/Nissan-Frontier-Off-Road-Inclinometer/assets/49174783/570a732c-b5fe-45bb-8220-e1707f7bb943 =200x200)
 # Nissan-Frontier-Off-Road-Inclinometer
 A simple Raspberry Pi Pico program that uses micropython to display the pitch and roll of my Nissan Frontier. Pieces and parts were pulled from other folks' libraries.
 
@@ -6,6 +5,9 @@ A simple Raspberry Pi Pico program that uses micropython to display the pitch an
 * Raspberry Pi Pico
 * ILI9341 touchscreen
 * MPU9250 Gyroscope
+
+## Wiring
+![Wiring Diagram Medium](https://github.com/jackskupien/Nissan-Frontier-Off-Road-Inclinometer/assets/49174783/0bdead9c-b350-4781-826f-cc5bd4790c08)
 
 ## What is in these folders?
 * Backup is everything that is on the Pi pico when it runs (just a copy of its storage)
