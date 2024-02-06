@@ -1,3 +1,4 @@
+![Wiring Diagram](https://github.com/jackskupien/Nissan-Frontier-Off-Road-Inclinometer/assets/49174783/570a732c-b5fe-45bb-8220-e1707f7bb943)
 # Nissan-Frontier-Off-Road-Inclinometer
 A simple Raspberry Pi Pico program that uses micropython to display the pitch and roll of my Nissan Frontier. Pieces and parts were pulled from other folks' libraries.
 
